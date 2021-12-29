@@ -9,7 +9,6 @@
             <li>Coding on daily basis</li>
             <li>Team-oriented personality</li>
         </div>
-
         <h2>Some of my skills: </h2>
         <div style="width: 200px; display: grid;grid-template-columns:1fr 1fr 1fr 1fr; grid-gap: 10px;" class="">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"
